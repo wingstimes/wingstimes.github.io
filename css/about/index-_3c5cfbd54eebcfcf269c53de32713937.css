@@ -1,0 +1,116 @@
+.container-fluid .banner .banner-inner .banner-light .row {
+    margin-top:3%;
+}
+.sidebar
+{
+    position: absolute;;
+    width: 230px;
+    padding-left: 20px;
+}.sidebar p a:link,
+.sidebar p a:visited
+{
+    color: #5e5e5e;
+}.sidebar p a:hover,
+.sidebar p a:active
+{
+    color: #212121;
+}.fixed-sidebar
+{
+    position: fixed;
+    top: 200px;
+    left: 0;
+
+    background-color: rgba(255,255,255,.8);
+}.sidebar ul
+{
+    padding: 0;;
+
+    list-style: none;
+}.sidebar li
+{
+    display: inline-block;
+
+    margin-right: 5px;;
+
+    color: #00afec;
+}@media screen and (max-width: 1200px)
+{
+    .sidebar
+    {
+        display: none;
+    }
+}.quote
+{
+    width: 75%;
+    margin: 0 auto;
+    margin-bottom: 50px;;
+    padding: 30px 60px;
+
+    background-color: #f6f6f6;
+}.quote i
+{
+    font-size: 22px;
+    line-height: 20px;;
+
+    display: inline-block;
+
+    width: 30px;
+    height: 30px;
+    margin-left: -46px;
+    padding: 3px 0 0 4px;
+
+    vertical-align: top;
+
+    color: #0af;
+    border-radius: 50%;
+    background-color: #fff;
+}.quote p
+{
+    font-family: SourceSansLightItalic;
+    font-size: 18px;
+    line-height: 29px;
+
+    display: inline-block;
+
+    margin-top: -8px;;
+    margin-left: 40px;
+
+    color: #a4a4a4;
+}.quote .signature
+{
+    font-family: MontserratRegular;
+    font-size: 12px;
+
+    margin-top: 10px;
+    margin-bottom: 0;
+    margin-left: 24px;
+
+    letter-spacing: 2px;;
+    text-transform: uppercase;
+}.quote .quoted-text
+{
+    border-left: 2px solid #0af;
+}@media screen and (max-width: 1000px)
+{
+    .quote
+    {
+        width: auto;
+    }
+}.about-text
+{
+    line-height: 24px;;
+    width: 75%;
+    margin: 0 auto 30px;
+}.about-text p
+{
+    margin-bottom: 25px;
+}.about-text h3
+{
+
+    font-size: 24px;
+
+    margin-bottom: 30px;;
+
+    color: #141414;
+}
+

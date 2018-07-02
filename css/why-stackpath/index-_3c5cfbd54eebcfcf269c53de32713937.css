@@ -1,0 +1,30 @@
+.icon-text {
+  border-bottom: 1px solid #ddd;
+  padding: 35px 0;
+  max-width: 960px;
+  margin: 0 auto
+}
+.icon-text h3 {
+  margin-top: 0
+}
+.icon-text .col-lg-3, .icon-text .col-lg-9 {
+  float: none;
+  display: table-cell;
+  vertical-align: middle
+}
+.icon-text .col-lg-3 {
+  text-align: center;
+  vertical-align: middle
+}
+.icon-text i {
+  color: #0af;
+  font-size: 6em
+}
+@media screen and (max-width: 1200px) {
+  .icon-text {
+    text-align: center
+  }
+  .icon-text .col-lg-3, .icon-text .col-lg-9 {
+    display: block
+  }
+}
