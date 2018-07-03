@@ -241,7 +241,7 @@
     position: relative;
 }#how-we-work .secure-network h3:before
 {
-    position: absolute;
+/*     position: absolute;
     top: .75em;;
     left: -93px;
 
@@ -250,11 +250,11 @@
 
     content: '';
 
-    background-color: #0af;
+    background-color: #0af; */
 }#how-we-work .application-firewall
 {
     position: relative;
-    top: -100px;
+    top: 50px;
 }#how-we-work .application-firewall h3
 {
     position: relative;;
@@ -262,17 +262,17 @@
     display: inline-block;
 }#how-we-work .application-firewall h3:after
 {
-    position: absolute;
+/*     position: absolute;
     top: .75em;
     width: 300px;
     height: 2px;
     margin-left: 10px;
     left:100%;
     content: '';
-    background-color: #0af;
+    background-color: #0af; */
 }#how-we-work .col-lg-5
 {
-    padding-top: 102px;
+    padding-top: -10px;
 }#how-we-work .col-lg-7 a
 {
     display: inline-block;
