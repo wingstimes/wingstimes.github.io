@@ -35,7 +35,7 @@ body {
 }
 a, a:link, a:visited, a:hover, a:active {
   text-decoration: none;
-  color: #0af
+  color: #333
 }
 i.mdi {
   display: inline-block
@@ -1018,7 +1018,7 @@ footer p {
 }
 .smallest-cards-container .smallest-card a {
   /*font-family: MontserratRegular;*/
-  font-size: 11px;
+/*   font-size: 11px;
   background-color: #fff;
   color: #0af;
   border: 0;
@@ -1032,7 +1032,7 @@ footer p {
   display: block;
   position: absolute;
   bottom: 25px;
-  left: 26%
+  left: 26% */
 }
 @media screen and (max-width: 1200px) {
   .small-card-container .col-lg-3 {
