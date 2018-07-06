@@ -1,0 +1,107 @@
+#careers
+{
+    margin-bottom: 2em;
+}#careers .resumator-wrapper
+{
+    color: #1e1e1e;
+}#careers #resumator-jobs div.resumator-job-title
+{
+    font-family: MontserratRegular;
+    font-size: 18px;
+    line-height: 1.5em;
+
+    margin: 18px 0 0;
+    padding: 18px 0 0;
+
+    color: #141414;
+}#careers #resumator-jobs span.resumator-jobs-text
+{
+    font-family: SourceSansBold;
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 1.5em;
+
+    display: inline-block;
+
+    margin-right: 5px;;
+
+    color: #141414;
+}#careers #resumator-jobs .resumator-job-info-details,
+#careers #resumator-jobs .resumator-job-info
+{
+    font-family: SourceSansRegular;
+    font-size: 15px;
+    line-height: 1.5em;;
+
+    margin: 4px 1em 0 0;
+
+    color: #5e5e5e;
+}#careers #resumator-jobs .resumator-job-view-details
+{
+    padding-top: 12px;
+}#careers #resumator-jobs .resumator-job-link
+{
+    color: #0af;
+}#careers #resumator-jobs .resumator-jobs-text .resumator-job-description-text strong span
+{
+    font-family: SourceSansBold;
+    font-size: 15px;
+    font-size: 15px !important;;
+    line-height: 1.5em;
+
+    display: block;
+
+    margin-top: 28px;
+
+    color: #141414;
+}#careers #resumator-jobs .resumator-job-description p
+{
+    font-family: SourceSansRegular;
+    font-size: 15px;
+    line-height: 1.5em;;
+
+    color: #5e5e5e;
+}#careers #resumator-jobs .resumator-job-description span
+{
+    font-family: SourceSansBold;
+    font-size: 15px;
+    font-size: 15px !important;;
+    line-height: 1.5em;
+
+    color: #141414;
+}#careers #resumator-jobs .resumator-job-description li
+{
+    font-family: SourceSansRegular;
+    font-size: 15px;
+    line-height: 1.5em;;
+
+    color: #5e5e5e;
+}#careers #resumator-jobs .resumator-job-description p u
+{
+    font-family: SourceSansBold;
+    font-size: 15px;
+    line-height: 1.5em;
+
+    color: #141414;
+}#careers #resumator-jobs .resumator-buttons input
+{
+    font-family: MontserratLight;
+    font-size: 14px;
+    line-height: 30px;
+
+    display: inline-block;
+
+    height: 50px;
+    padding: 4px 16px;
+
+    text-decoration: none;
+    letter-spacing: 1px;
+    text-transform: uppercase;;
+
+    color: #fff;
+    border: 0 none;
+    background-color: #0af;
+}#careers .resumator-buttons input:hover
+{
+    background-color: #0090cc;
+}
