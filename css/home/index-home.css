@@ -8,9 +8,9 @@
 }#home-carousel .carousel-inner .carousel-text h1,
 #home-carousel .item .carousel-text h1
 {
-    /*font-family: MontserratBold;*/
+    font-family: MontserratBold;
     font-size: 38px;;
-    line-height: 1.3em;
+    line-height: 1.5em;
 
     color: #fff;
 }#home-carousel .carousel-inner .carousel-text p,

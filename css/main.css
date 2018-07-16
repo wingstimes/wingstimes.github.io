@@ -721,7 +721,7 @@ footer p {
 .banner h1 {
   color: #141414;
   /*font-family: MontserratBold;*/
-  font-size: 3em
+  font-size: 2em
 }
 .banner-inner {
   text-align: center;
@@ -779,7 +779,7 @@ footer p {
 .banner-light {
   background-image: url("../images/light-inner-banner.jpg");
   min-height: 341px;
-  padding-top: 65px
+  padding-top: 100px
 }
 .banner-small {
   min-height: 230px
