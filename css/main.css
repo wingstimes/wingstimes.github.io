@@ -591,7 +591,8 @@ nav {
     border:none;
     margin:0 auto;
     position: absolute;
-    top: 30%;
+    top: 35%;
+    right: 20%;
 }
 @media screen and (max-width: 990px) {
   .pre-footer .pre-footer-row .col-md-2 {
