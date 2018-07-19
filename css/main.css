@@ -732,7 +732,7 @@ footer p {
   background-position: top center;
   padding: 50px 20px 53px;
   margin-bottom: 50px;
-  margin-top: 68px;
+  /* margin-top: 68px; */
   min-height: 300px
 }
 .banner-inner p {
