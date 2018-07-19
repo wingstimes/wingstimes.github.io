@@ -595,6 +595,7 @@ nav {
     top: 35%;
     right: 20%;
 }
+
 @media screen and (max-width: 990px) {
   .pre-footer .pre-footer-row .col-md-2 {
     width: 30%;
