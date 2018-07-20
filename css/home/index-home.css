@@ -375,3 +375,9 @@
         display: none;
     }
 }
+.wow.fadeIn.col-lg-7.visible-lg.animated
+{
+    margin: auto 0;
+    text-align: center;
+}
+
