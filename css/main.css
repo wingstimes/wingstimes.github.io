@@ -221,7 +221,7 @@ img.centered {
 }
 .standard-nav {
   background-color: #fff;
-  box-shadow:0 0 5px #ccc;
+  box-shadow:0 0 2px #ccc;
 }
 nav .navbar-nav.nav-right {
   float: right
@@ -719,7 +719,7 @@ footer p {
   font-size: 14px
 }
 .banner {
-  margin-top: 50px
+  margin-top: 40px
 }
 .banner h1 {
   color: #141414;
