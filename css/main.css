@@ -964,7 +964,7 @@ footer p {
 }
 .small-card i {
   color: #0af;
-  font-size: 28px
+  font-size: 36px
 }
 @media screen and (max-width: 1200px) {
   .small-card-container .small-card {
